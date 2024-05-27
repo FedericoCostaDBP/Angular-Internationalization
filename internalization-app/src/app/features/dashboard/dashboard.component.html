@@ -1,0 +1,29 @@
+<div class="dashboard-container">
+    <app-sidepanel *ngIf="showSidePanel" (togglePanel)="toggleSidePanel()"></app-sidepanel>
+    <div class="dashboard-content" [ngClass]="{'with-sidepanel': showSidePanel, 'without-sidepanel': !showSidePanel}">
+        <button (click)="toggleSidePanel()">
+            {{ showSidePanel ? ('dashboard.toggleButton.hide' | translate) : ('dashboard.toggleButton.show' | translate)
+            }}
+        </button>
+        <h1>{{ 'dashboard.title' | translate }}</h1>
+
+        <nav class="navigation">
+            <ul>
+                <li><a href="">{{ 'dashboard.navigation.art' | translate }}</a></li>
+                <li><a href="">{{ 'dashboard.navigation.clothes' | translate }}</a></li>
+                <li><a href="">{{ 'dashboard.navigation.journeys' | translate }}</a></li>
+                <li><a href="">{{ 'dashboard.navigation.about' | translate }}</a></li>
+                <li><a href="">{{ 'dashboard.navigation.contact' | translate }}</a></li>
+            </ul>
+        </nav>
+
+        <div class="blog-entry">
+            <h2>{{ 'dashboard.blogEntry.title' | translate }}</h2>
+            <img src="https://via.placeholder.com/800x400" alt="Blog Image 1">
+            <p>{{ 'dashboard.blogEntry.content1' | translate }}</p>
+            <p>{{ 'dashboard.blogEntry.content2' | translate }}</p>
+            <img src="https://via.placeholder.com/800x400" alt="Blog Image 2">
+            <p>{{ 'dashboard.blogEntry.content3' | translate }}</p>
+        </div>
+    </div>
+</div>

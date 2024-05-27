@@ -1,0 +1,34 @@
+{
+  "sidepanel": {
+    "title": "Side Panel",
+    "link": {
+      "home": "Home",
+      "art": "Art",
+      "clothes": "Clothes",
+      "journeys": "Journeys",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "dashboard": {
+    "toggleButton": {
+      "show": "Show Side Panel",
+      "hide": "Hide Side Panel"
+    },
+    "title": "Dashboard",
+    "navigation": {
+      "home": "Home",
+      "art": "Art",
+      "clothes": "Clothes",
+      "journeys": "Journeys",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "blogEntry": {
+      "title": "The Life of a Racecar Driver",
+      "content1": "Being a racecar driver is more than just driving fast cars. It requires immense skill, dedication, and physical fitness. From a young age, drivers are groomed for success, often starting with karting and progressing through various racing leagues.",
+      "content2": "Training is rigorous. Drivers must maintain peak physical condition, as the forces experienced in a race can be grueling. They train their reflexes, build endurance, and study every aspect of their cars. Each race is a test of strategy, where split-second decisions can make or break their performance.",
+      "content3": "Off the track, racecar drivers often engage with fans and sponsors. They attend events, give interviews, and work with their teams to improve car performance. Despite the glamour, it's a demanding profession that requires constant focus and an unyielding drive to be the best."
+    }
+  }
+}

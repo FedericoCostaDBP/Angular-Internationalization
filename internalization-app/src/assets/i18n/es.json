@@ -1,0 +1,34 @@
+{
+  "sidepanel": {
+    "title": "Panel Lateral",
+    "link": {
+      "home": "Inicio",
+      "art": "Arte",
+      "clothes": "Ropa",
+      "journeys": "Viajes",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    }
+  },
+  "dashboard": {
+    "toggleButton": {
+      "show": "Mostrar Panel Lateral",
+      "hide": "Ocultar Panel Lateral"
+    },
+    "title": "Tablero",
+    "navigation": {
+      "home": "Inicio",
+      "art": "Arte",
+      "clothes": "Ropa",
+      "journeys": "Viajes",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    },
+    "blogEntry": {
+      "title": "La Vida de un Piloto de Carreras",
+      "content1": "Ser un piloto de carreras es más que conducir autos rápidos. Requiere una habilidad inmensa, dedicación y buena condición física. Desde una edad temprana, los pilotos son preparados para el éxito, a menudo comenzando con karting y progresando a través de varias ligas de carreras.",
+      "content2": "El entrenamiento es riguroso. Los pilotos deben mantener una condición física óptima, ya que las fuerzas experimentadas en una carrera pueden ser agotadoras. Entrenan sus reflejos, desarrollan resistencia y estudian cada aspecto de sus autos. Cada carrera es una prueba de estrategia, donde decisiones en fracciones de segundo pueden hacer o deshacer su rendimiento.",
+      "content3": "Fuera de la pista, los pilotos de carreras a menudo interactúan con fanáticos y patrocinadores. Asisten a eventos, dan entrevistas y trabajan con sus equipos para mejorar el rendimiento del auto. A pesar del glamour, es una profesión exigente que requiere una concentración constante y un impulso inquebrantable para ser el mejor."
+    }
+  }
+}

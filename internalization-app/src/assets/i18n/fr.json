@@ -1,0 +1,34 @@
+{
+  "sidepanel": {
+    "title": "Panneau latéral",
+    "link": {
+      "home": "Accueil",
+      "art": "Art",
+      "clothes": "Vêtements",
+      "journeys": "Voyages",
+      "about": "À propos",
+      "contact": "Contact"
+    }
+  },
+  "dashboard": {
+    "toggleButton": {
+      "show": "Afficher le panneau latéral",
+      "hide": "Masquer le panneau latéral"
+    },
+    "title": "Tableau de bord",
+    "navigation": {
+      "home": "Accueil",
+      "art": "Art",
+      "clothes": "Vêtements",
+      "journeys": "Voyages",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "blogEntry": {
+      "title": "La vie d'un pilote de course",
+      "content1": "Être un pilote de course, ce n'est pas seulement conduire des voitures rapides. Cela demande une immense compétence, de la dévotion et une forme physique exceptionnelle. Dès leur plus jeune âge, les pilotes sont préparés au succès, souvent en commençant par le karting et en progressant à travers diverses ligues de course.",
+      "content2": "L'entraînement est rigoureux. Les pilotes doivent maintenir une condition physique optimale, car les forces ressenties lors d'une course peuvent être éprouvantes. Ils entraînent leurs réflexes, développent leur endurance et étudient chaque aspect de leurs voitures. Chaque course est un test de stratégie, où des décisions prises en une fraction de seconde peuvent faire ou défaire leur performance.",
+      "content3": "En dehors de la piste, les pilotes de course interagissent souvent avec les fans et les sponsors. Ils assistent à des événements, donnent des interviews et travaillent avec leurs équipes pour améliorer les performances des voitures. Malgré le glamour, c'est une profession exigeante qui nécessite une concentration constante et une volonté inébranlable d'être le meilleur."
+    }
+  }
+}
